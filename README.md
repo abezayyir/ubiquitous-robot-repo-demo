@@ -1,3 +1,3 @@
 # ubiquitous-robot-repo-demo
 git tutorial
-err spelled coorectly
+err spelled readme correctly
